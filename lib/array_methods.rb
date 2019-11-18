@@ -5,7 +5,7 @@ def find_element_index(array, value_to_find)
   while array [counter] do
     puts array [counter]
     counter += 1 
-    pp
+    pp find_element_index
 end
 
 def find_max_value(array)
