@@ -10,6 +10,7 @@ end
 
 def find_max_value(array)
   array= [1,2,3,4,5].max 
+  pp array 
 end
 
 def find_min_value(array)
